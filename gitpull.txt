@@ -1,2 +1,2 @@
-pull test   拉伸试验
+pull test   
 
